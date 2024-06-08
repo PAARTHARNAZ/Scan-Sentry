@@ -84,6 +84,9 @@ We welcome contributions! Please feel free to submit a Pull Request.
 
 This tool is intended for educational purposes only. Use it responsibly and ensure you have permission to scan the target network.
 
----
+## Authors
 
+- **[PAARTHARNAZ](https://github.com/PAARTHARNAZ)**
+  
+---
 Happy scanning with Scan Sentry!
